@@ -1,0 +1,7 @@
+Name,Age,Gender,City,Party
+Frank,47,Male,Oklahoma City,Republican
+Shelley,38,Female,Tucson,Republican
+Lakeisha,29,Female,Chicago,Independent
+Lupe,61,Female,Boston,Republican
+Gordon,22,Male,Topeka,Democrat
+Cheng,31,Male,San Francisco,Democrat
